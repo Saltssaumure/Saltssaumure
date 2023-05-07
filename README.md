@@ -1,6 +1,6 @@
-Enjoy my themes? A tip or coffee would be much appreciated!
+Enjoy my themes? Buy me a coffee!
 
-[![Donate via ko-fi](https://img.shields.io/badge/Donate-ko--fi-orange?style=flat-square&logo=kofi)](https://ko-fi.com/saltssaumure)
+[![Donate via ko-fi](https://img.shields.io/badge/Donate-ko--fi-orange?style=flat-square&logo=kofi&logoColor=orange)](https://ko-fi.com/saltssaumure)
 
 ![Saltssaumure's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saltssaumure&theme=midnight-purple)
 
