@@ -8,12 +8,7 @@ Enjoy my themes? Buy me a coffee!
 - [Vencord](https://github.com/Vendicated/Vencord)
 
 ## Full-size Discord themes
-- [piOS](https://github.com/Saltssaumure/pios-discord-theme) - Superhot piOS inspired
-- [Exponent](https://github.com/Saltssaumure/xp-discord-theme) - Windows XP style
-- [Logarithm](https://github.com/Saltssaumure/xp2-discord-theme) - Another Windows XP style
-- [NineX](https://github.com/Saltssaumure/w9x-discord-theme) - Windows 9x style
-- [Synthesis](https://github.com/Saltssaumure/synthesis-discord-theme) - Vibrant neon synthwave
-- [IEYTD](https://github.com/Saltssaumure/ieytd-discord-theme) - I Expect You To Die intro inspired
+[![Star History Chart](https://api.star-history.com/svg?repos=Saltssaumure/pios-discord-theme,Saltssaumure/w9x-discord-theme,Saltssaumure/xp-discord-theme,Saltssaumure/ieytd-discord-theme,Saltssaumure/synthesis-discord-theme,Saltssaumure/elysium-discord-theme,Saltssaumure/xp2-discord-theme&type=Date)](https://star-history.com/#Saltssaumure/pios-discord-theme&Saltssaumure/w9x-discord-theme&Saltssaumure/xp-discord-theme&Saltssaumure/ieytd-discord-theme&Saltssaumure/synthesis-discord-theme&Saltssaumure/elysium-discord-theme&Saltssaumure/xp2-discord-theme&Date)
 
 ## Mini-size Discord themes
 See [MiniDiscordThemes](https://github.com/MiniDiscordThemes).
